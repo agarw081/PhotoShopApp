@@ -1,0 +1,2 @@
+# PhotoShopApp
+PhotoShop App provides users with a GUI interface and a canvas to draw, paint using different colors and brushes. Users can import images, edit them and save newly created images back to the system. App provides different tools like pencil, brush, spray can, stamp and filters. The project was created under Guidance of Professor Daniel Keefe in CSCi 3081Course. The project is written in C++ using OpenGl, Jpeg and Png libraries. The project also utilizes a library created by our student group for applying different filters.
